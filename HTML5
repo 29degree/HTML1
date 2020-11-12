@@ -1,0 +1,60 @@
+HTML 5
+* Doc type declaration : 
+<!DOCTYPE HTML>
+
+* Simplified :
+<meta charset="UTF-8">
+
+* New elements in HTML 5
+<article>
+<aside>
+<audio>
+<canvas>
+<detalist>
+<details>
+<embed>
+<footer>
+<header>
+<nav>
+<output>
+<progress>
+<section>
+<video>
+
+* the default character encoding in HTML5 is UTF-8
+
+CODE :
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Title</title>
+</head>
+<body>
+the content of the document
+</body>
+</html>
+
+THE LIST OF CONTENT MODELS
+7 (seven) main content models :
+
+1.metadata : content that sets up the presentation or behavior of the rest of the content. these elements are found in the head of the document.
+1. metadata: konten yang mengatur presentasi atau perilaku konten lainnya. elemen-elemen ini ditemukan di bagian atas dokumen.
+
+2.embedded : content that imports other resource into the document
+2. tertanam: konten yang mengimpor sumber daya lain ke dalam dokumen
+
+3.interactive : content specifically intended for user interaction
+3. interaktif: konten yang secara khusus ditujukan untuk interaksi pengguna
+
+4.heading : defines a section header
+4.heading: mendefinisikan header bagian
+
+5.phrasing : this model has a number of inline level elements in common with html 4
+5. frase: model ini memiliki sejumlah elemen level sebaris yang sama dengan html 4
+
+6.flow : contains the majority of html5 elements that would be included in the normal flow of the document
+6. flow: berisi sebagian besar elemen html5 yang akan disertakan dalam alur normal dokumen
+
+7.sectioning : defines the scope of headings, content, navigation, and footers
+7. bagian: mendefinisikan ruang lingkup judul, konten, navigasi, dan footer
+
